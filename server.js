@@ -9,7 +9,7 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: "https://collaborative-document-editor-sigma.vercel.app",
+    origin: "https://collaborative-document-editor-alpha.vercel.app",
     methods: ["GET", "POST"]
   }
 });
