@@ -9,7 +9,7 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: process.env.CLIENT_URL || "http://localhost:3000", // client URL for Render or local
+    origin: "https://collaborative-document-editor-sigma.vercel.app",
     methods: ["GET", "POST"]
   }
 });
