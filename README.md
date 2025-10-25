@@ -106,19 +106,19 @@ DocTogether is a minimal, no-login collaborative editor that brings the essence 
 Whether you're learning real-time systems or need a quick doc editor with zero setup, DocTogether has you covered.
 
 ## OUTPUT
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1b44df8e-79e7-4dce-be6a-e66d652a3ca1" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/8636828d-8078-4802-a6fd-f0f62659df2d" />
 
 ---
 ---
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/614d77d6-1036-4ea1-a6a3-cba7dddf4954" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/3e6b37cd-69e6-43a9-ad9a-ef215042dcb3" />
 
 ---
 ---
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/950d1f78-a86a-43fa-8b1d-dec1107e8dc7" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d5313f19-8d92-4767-b84f-530a14898914" />
 
 ---
 ---
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/2ec0c773-f476-4fe9-8fd3-2a8323e3dbf5" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/0be2de04-e4af-4148-a975-6a6673377e93" />
