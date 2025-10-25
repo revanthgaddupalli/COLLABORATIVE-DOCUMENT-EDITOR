@@ -111,12 +111,12 @@ Whether you're learning real-time systems or need a quick doc editor with zero s
 ---
 ---
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/3e6b37cd-69e6-43a9-ad9a-ef215042dcb3" />
-
----
----
-
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/d5313f19-8d92-4767-b84f-530a14898914" />
+
+---
+---
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/3e6b37cd-69e6-43a9-ad9a-ef215042dcb3" />
 
 ---
 ---
